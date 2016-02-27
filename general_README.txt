@@ -19,27 +19,28 @@
 Repository directory structure:  
 a) All projects in repositiry shall have a directory structure as shown below.
 b) Each directory shall have a text file describing its contents, named "<dir-name>_README.txt"
-c) Directory structure represents activity area(s) for work/structure and may include:
+c) Each directory shall have a duplicate of "<dir-name>_README.txt" named "README"
+d) Directory structure represents activity area(s) for work/structure and may include:
 
-[design]      only contains folders and design_README.txt
--> [bin]      executables, scripts, toolchain/CAD
+[design]      only contains folders and design_README.txt/README
+-> [bin]      executables, toolchain/CAD and scripts (PERL, Python, shell, etc)
 -> [doc]      specifications, requirements, references
 -> [1_model]  for example, octave files
 -> [2_mech]   for example, FreeCAD, 3D printer (stl) files
 -> [3_elechw] for example, Qucs files
 -> [4_pcb]    for exmaple, KiCAD files
--> [5_sw-app] for exampel, C/C++, Java, PERL, Python files
+-> [5_sw-app] for exampel, C/C++, Java files
 -> [sys-int]  system bring-up, integration, verification 
 -> [misc]     miscelaneous
 
 [project] project files, budget, risk & issue record...
--> [legal] license files, license template(s), patent references, certification report, etc
--> [peer-review] release process, templates, reference files
+-> [legal] license files, patent references, certifications, etc
+-> [peer-review] peer-reviewed publication of project, release/hand-over OM&A documention
 
 # ===========================================================================
 # Change History
 # ---------------------------------------------------------------------------
-#  $Revision: 0.1 $
+#  $Revision: 0.2 $
 #  $Log: Initial release$
 #
 # ===========================================================================
