@@ -15,11 +15,13 @@
 #  $Date: 11-February-2016$
 #  $Name: alfredoh1234$
 # ===========================================================================
+Projects in the IEEE Humanitarian opdn source repository have been peer-reviewed 
+and published in proceedings, journal or academic publication.
 
 Repository directory structure:  
-a) All projects in repositiry shall have a directory structure as shown below.
+a) All projects in repositiry shall follow the directory structure shown below.
 b) Each directory shall have a text file describing its contents, named "<dir-name>_README.txt"
-c) Each directory shall have a duplicate of "<dir-name>_README.txt" named "README"
+c) Each "<dir-name>_README.txt" file shall have a duplicate named "README" (for GitHub)
 d) Directory structure represents activity area(s) for work/structure and may include:
 
 [design]      only contains folders and design_README.txt/README
@@ -29,12 +31,12 @@ d) Directory structure represents activity area(s) for work/structure and may in
 -> [2_mech]   for example, FreeCAD, 3D printer (stl) files
 -> [3_elechw] for example, Qucs files
 -> [4_pcb]    for exmaple, KiCAD files
--> [5_sw-app] for exampel, C/C++, Java files
+-> [5_sw-app] application running on project. For exampel, C/C++, Java files
 -> [sys-int]  system bring-up, integration, verification 
 -> [misc]     miscelaneous
 
 [project] project files, budget, risk & issue record...
--> [legal] license files, patent references, certifications, etc
+-> [legal] patent references, certifications, standards
 -> [peer-review] peer-reviewed publication of project, release/hand-over OM&A documention
 
 # ===========================================================================
