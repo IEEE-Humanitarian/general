@@ -9,7 +9,7 @@
 # The contents of this file are subject to the terms of the Creative
 # Commons BY-SA License, v. 4.0. If a copy of the CC BY-SA
 # was not distributed with this folder contents, you can obtain one
-# at http://creativecommons.org/licenses/by-sa/4.0/.
+# at (http://creativecommons.org/licenses/by-sa/4.0/)
 # ---------------------------------------------------------------------------
 #  $Author: alfredoh1234$
 # ===========================================================================
@@ -18,7 +18,7 @@ and published in proceedings, journal or academic publication.
 Pre-publications work can be hosted during peer-review/certification phase. 
 
 Repository directory structure:  
-a) All projects in repositiry shall follow the directory structure shown below.
+a) All projects in this repository follow the directory structure shown below.
 b) Each directory shall have a text file describing its contents, named "<dir-name>_README.txt"
 c) Each "<dir-name>_README.txt" file shall have a duplicate named "README" (for GitHub)
 d) Directory structure represents activity area(s) for work/structure and may include:
