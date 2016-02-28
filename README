@@ -2,8 +2,8 @@
 # Copyright (C) 2016 IEEE SIGHT/HIC-Ottawa
 # (https://github.com/IEEE-Humanitarian/general)
 #
-# The general folder has files related to IEEE's Humanitarian and Development
-# Open Source repository, including licenses to use under IEEE's
+# The general folder has files related to IEEE's Humanitarian Open Source
+# technology repository, including licenses to use under IEEE's
 # Open Source Humanitarian Engineering Licensing Protocol (OS-HELP).
 #
 # The contents of this file are subject to the terms of the Creative
@@ -11,12 +11,12 @@
 # was not distributed with this folder contents, you can obtain one
 # at http://creativecommons.org/licenses/by-sa/4.0/.
 # ---------------------------------------------------------------------------
-#  $Author: alfredo.herrera@ieee.org$
-#  $Date: 11-February-2016$
-#  $Name: alfredoh1234$
+#  $GitHubID: alfredoh1234$
+#  $Date: 28-February-2016$
 # ===========================================================================
-Projects in the IEEE Humanitarian opdn source repository have been peer-reviewed 
+Projects in the IEEE Humanitarian open source repository have been peer-reviewed 
 and published in proceedings, journal or academic publication.
+Pre-publications work can be hosted during peer-review/certification phase. 
 
 Repository directory structure:  
 a) All projects in repositiry shall follow the directory structure shown below.
