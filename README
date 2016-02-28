@@ -11,8 +11,7 @@
 # was not distributed with this folder contents, you can obtain one
 # at http://creativecommons.org/licenses/by-sa/4.0/.
 # ---------------------------------------------------------------------------
-#  $GitHubID: alfredoh1234$
-#  $Date: 28-February-2016$
+#  $Author: alfredoh1234$
 # ===========================================================================
 Projects in the IEEE Humanitarian open source repository have been peer-reviewed 
 and published in proceedings, journal or academic publication.
@@ -43,6 +42,10 @@ d) Directory structure represents activity area(s) for work/structure and may in
 # Change History
 # ---------------------------------------------------------------------------
 #  $Revision: 0.2 $
-#  $Log: Initial release$
+#  $Date: 28-February-2016$
+#  $Log: minor changes, typos$
 #
+#  $Revision: 0.1 $
+#  $Date: 11-February-2016$
+#  $Log: Initial commit$
 # ===========================================================================
